@@ -36,10 +36,17 @@ Exemplo: `--limit 10`
 - `MAX_WORKERS` (variável de ambiente): Define o número de workers para execução em paralelo.  
 Exemplo: `-e MAX_WORKERS=10`
 
-## 🏃 Exemplo completo:
 
+
+## Streamlit
+
+Você também pode executar o streamlit para buscar produtos por interface gráfica, basta instalar as dependências:
+
+```bash
+uv pip install -r requirements.txt
 ```
-docker build -t product-scraper .
 
-docker run -v $(pwd)/output:/app/output -e MAX_WORKERS=10 product-scraper --limit 10
+E rodar o cli do streamlit
+```bash
+streamlit run src/app.py
 ```
