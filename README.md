@@ -1,4 +1,4 @@
-# 🏗️ Product Scraper
+# 🏗️ baldor.com Scraper
 
 Script para extração de dados de produtos utilizando Python e Docker.
 
