@@ -1,0 +1,46 @@
+{
+    "name": "AC VS Master Motors",
+    "description": "Baldor-Reliance® V*S Master inverter duty and vector duty AC motors are designed to provide full load torque continuously from zero to base speed making them ideal for variable speed applications. The motors are built in NEMA frames for drop-in replacement and new applications.",
+    "imgs": [
+        "https://www.baldor.com/api/categories/48/image",
+        "https://www.baldor.com/~/media/images/product%20images/baldor-reliance/motors/ac%20motors/variable%20speed/v-s-master-motor-composite.ashx?la=en"
+    ],
+    "features": [
+        "1/3 – 500 Hp (0.25 – 373 kW)",
+        "Severe duty vector: 1 – 50 Hp (0.75 – 37.3 kW)",
+        "Standard NEMA frame 56 to 449T (IEC available)",
+        "Small ratings offered in TENV enclosures",
+        "Larger ratings offered in TEFC and TEBC enclosures",
+        "900, 1200 and 1800 RPM standard base speeds",
+        "Provisions for encode mounting",
+        "200% overload torque for 1 min at base speeds",
+        "Constant horsepower operation to 1.5x base speed",
+        "Class F or H insulation for extended motor life",
+        "Exceeds NEMA MG1 Part 31 requirements",
+        "Division 2 CSA certified",
+        "Corona-free insulation",
+        "3 thermostats, one per phase",
+        "Re-greaseable bearing",
+        "Cast-iron frame construction (3/4Hp and above)",
+        "Accessory kits for feedback devices available"
+    ],
+    "common_industries": [
+        "Pulp & Paper",
+        "Steel",
+        "Oil & Gas",
+        "Plastics",
+        "Automotive",
+        "Automation",
+        "Chemical plants"
+    ],
+    "common_applications": [
+        "Extruders",
+        "Conveyors",
+        "Crane and hoist",
+        "Center winders",
+        "Web processing",
+        "Process control",
+        "Test stands",
+        "Centrifugal pumps and fans"
+    ]
+}
