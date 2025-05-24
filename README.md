@@ -1,6 +1,6 @@
 # 🏗️ baldor.com Scraper
 
-Script para extração de dados de produtos utilizando Python e Docker.
+Script para extração de dados do site baldor.com.
 
 ## 🚀 Como executar com Docker
 
