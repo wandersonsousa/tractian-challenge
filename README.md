@@ -1,6 +1,6 @@
-# 🏗️ baldor.com Scraper
+#  Scraper
 
-Script para extração de dados do site baldor.com.
+Script para extração de dados do site proposto.
 
 ## 🚀 Como executar com Docker
 
